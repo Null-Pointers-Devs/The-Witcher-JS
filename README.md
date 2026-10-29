@@ -3,7 +3,7 @@
 Videojuego basado en The Witcher 3 desarrollado en JavaScript.
 
 <div align="center">
-  <img src="https://dmunozc04-albarregas.github.io/videojuego/recursos/imagenes/Icono.ico" alt="Logo de The Witcher 3" width="150">
+  <img src="recursos/imagenes/Icono.ico" alt="Logo de The Witcher 3" width="150">
 </div>
 
 ![GPL v3 License](https://img.shields.io/badge/License-GPL%20v3-blue.svg)
